@@ -6,4 +6,6 @@ To install, run this command in your command prompt:
 
 pip install pytube
 
+https://pypi.org/project/pytube/
+
 I am not responsible for your misusage of this file, it's just for educational purposes, and for the sake of my account not looking dry or empty.
